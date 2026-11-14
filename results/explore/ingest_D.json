@@ -1,0 +1,12 @@
+{
+  "strategy": "D",
+  "chunk_count": 525,
+  "embedded_count": 0,
+  "ingest_seconds": 1.5,
+  "len_min": 416,
+  "len_mean": 763.6,
+  "len_p50": 768,
+  "len_p95": 797,
+  "len_max": 799,
+  "total_chars": 400902
+}

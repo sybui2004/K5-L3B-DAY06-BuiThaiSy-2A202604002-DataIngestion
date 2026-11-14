@@ -1,0 +1,46 @@
+﻿question_id,strategy,rank,chunk_id,source,page_start,page_end,version,dieu,filter,source_ok,page_ok,version_ok,dieu_ok,filter_ok,note
+q16,A,1,A:blld-2012:0022,data/raw/blld_2012_congbao.pdf,8,9,2012,22,2019,1,1,1,1,0,"Bắt đầu giữa điểm b khoản 1 Điều 22; dieu=22 đúng theo vị trí đầu chunk. Câu yêu cầu version=2019 nhưng A/B không áp filter (filter_ok chỉ tham khảo, không tính vào tổng). Chunk thuộc BLLĐ 2012 → nằm ngoài phạm vi câu hỏi."
+q16,A,2,A:blld-2012:0023,data/raw/blld_2012_congbao.pdf,9,9,2012,22,2019,1,1,1,1,0,"Chunk chứa cả đầu Điều 23 nhưng dieu chỉ ghi Điều ở đầu chunk (22). Câu yêu cầu version=2019 nhưng A/B không áp filter (filter_ok chỉ tham khảo, không tính vào tổng). Chunk thuộc BLLĐ 2012 → nằm ngoài phạm vi câu hỏi."
+q16,A,3,A:blld-2019:0025,data/raw/blld_2019_congbao.pdf,9,10,2019,20,2019,1,1,1,1,1,"Bắt đầu giữa khoản 2 Điều 20, chứa cả đầu Điều 21; dieu chỉ ghi 20. Câu yêu cầu version=2019 nhưng A/B không áp filter (filter_ok chỉ tham khảo, không tính vào tổng)."
+q17,A,1,A:blld-2019:0031,data/raw/blld_2019_congbao.pdf,11,12,2019,25,,1,1,1,1,,dieu=25 (đầu chunk) nhưng evidence nằm ở Điều 26 trong cùng chunk — hạn chế của dieu với chunk A.
+q17,A,2,A:blld-2012:0028,data/raw/blld_2012_congbao.pdf,11,11,2012,27,,1,1,1,1,,dieu=27 (đầu chunk) nhưng evidence nằm ở Điều 28 trong cùng chunk.
+q17,A,3,A:blld-2012:0090,data/raw/blld_2012_congbao.pdf,33,33,2012,90,,1,1,1,1,,"dieu=90 (đầu chunk), phần chính là Điều 91."
+q18,A,1,A:blld-2012:0118,data/raw/blld_2012_congbao.pdf,43,43,2012,124,,1,1,1,1,,Bắt đầu giữa từ ('ết lộ') trong khoản 1 Điều 124; chứa cả tiêu đề Điều 125.
+q18,A,2,A:blld-2012:0117,data/raw/blld_2012_congbao.pdf,42,43,2012,123,,1,1,1,1,,dieu=123 (đầu chunk) nhưng chunk chứa đầu Điều 124 (evidence).
+q18,A,3,A:blld-2019:0148,data/raw/blld_2019_congbao.pdf,51,52,2019,123,,1,1,1,1,,"Chứa khoản 1-3 Điều 123, cả Điều 124 và chữ 'Điều 125' (trang 52) — page_end=52 đúng."
+q19,A,1,A:blld-2019:0066,data/raw/blld_2019_congbao.pdf,23,24,2019,52,,1,1,1,1,,dieu=52 (đầu chunk) nhưng evidence nằm ở Điều 53 trong cùng chunk.
+q19,A,2,A:blld-2012:0056,data/raw/blld_2012_congbao.pdf,20,21,2012,52,,1,1,1,1,,"dieu=52 (đầu chunk), chunk chứa Điều 53 và Điều 54 (evidence)."
+q19,A,3,A:blld-2012:0057,data/raw/blld_2012_congbao.pdf,21,21,2012,54,,1,1,1,1,,"Bắt đầu giữa khoản 2 Điều 54, chứa Điều 55."
+q20,A,1,A:blld-2019:0168,data/raw/blld_2019_congbao.pdf,58,58,2019,142,,1,1,1,1,,dieu=142 (đầu chunk) nhưng evidence nằm ở Điều 143 trong cùng chunk.
+q20,A,2,A:blld-2012:0153,data/raw/blld_2012_congbao.pdf,55,55,2012,160,,1,1,1,1,,dieu=160 (đầu chunk) nhưng evidence nằm ở Điều 161 trong cùng chunk.
+q20,A,3,A:blld-2019:0171,data/raw/blld_2019_congbao.pdf,59,59,2019,145,,1,1,1,1,,"dieu=145 (đầu chunk), chứa đầu Điều 146."
+q16,B,1,B:blld-2012:d022-p1,data/raw/blld_2012_congbao.pdf,8,9,2012,22,2019,1,1,1,1,0,"Câu yêu cầu version=2019 nhưng A/B không áp filter (filter_ok chỉ tham khảo, không tính vào tổng). Chunk thuộc BLLĐ 2012 → nằm ngoài phạm vi câu hỏi."
+q16,B,2,B:blld-2019:d020-p1,data/raw/blld_2019_congbao.pdf,9,10,2019,20,2019,1,1,1,1,1,"Câu yêu cầu version=2019 nhưng A/B không áp filter (filter_ok chỉ tham khảo, không tính vào tổng)."
+q16,B,3,B:blld-2012:d037-p1,data/raw/blld_2012_congbao.pdf,13,14,2012,37,2019,1,1,1,1,0,"Câu yêu cầu version=2019 nhưng A/B không áp filter (filter_ok chỉ tham khảo, không tính vào tổng). Chunk thuộc BLLĐ 2012 → nằm ngoài phạm vi câu hỏi."
+q17,B,1,B:blld-2019:d026-p1,data/raw/blld_2019_congbao.pdf,12,12,2019,26,,1,1,1,1,,"Đã đối chiếu PDF: nguồn, trang, phiên bản, Điều đều đúng."
+q17,B,2,B:blld-2012:d028-p1,data/raw/blld_2012_congbao.pdf,11,11,2012,28,,1,1,1,1,,"Đã đối chiếu PDF: nguồn, trang, phiên bản, Điều đều đúng."
+q17,B,3,B:blld-2012:d091-p1,data/raw/blld_2012_congbao.pdf,33,33,2012,91,,1,1,1,1,,"Đã đối chiếu PDF: nguồn, trang, phiên bản, Điều đều đúng."
+q18,B,1,B:blld-2019:d123-p1,data/raw/blld_2019_congbao.pdf,51,51,2019,123,,1,1,1,1,,"Đã đối chiếu PDF: nguồn, trang, phiên bản, Điều đều đúng."
+q18,B,2,B:blld-2012:d124-p1,data/raw/blld_2012_congbao.pdf,43,43,2012,124,,1,1,1,1,,"Đã đối chiếu PDF: nguồn, trang, phiên bản, Điều đều đúng."
+q18,B,3,B:blld-2019:d125-p1,data/raw/blld_2019_congbao.pdf,52,52,2019,125,,1,1,1,1,,"Đã đối chiếu PDF: nguồn, trang, phiên bản, Điều đều đúng."
+q19,B,1,B:blld-2019:d053-p1,data/raw/blld_2019_congbao.pdf,23,24,2019,53,,1,1,1,1,,"Đã đối chiếu PDF: nguồn, trang, phiên bản, Điều đều đúng."
+q19,B,2,B:blld-2012:d054-p1,data/raw/blld_2012_congbao.pdf,20,21,2012,54,,1,1,1,1,,"Đã đối chiếu PDF: nguồn, trang, phiên bản, Điều đều đúng."
+q19,B,3,B:blld-2019:d052-p1,data/raw/blld_2019_congbao.pdf,23,23,2019,52,,1,1,1,1,,"Đã đối chiếu PDF: nguồn, trang, phiên bản, Điều đều đúng."
+q20,B,1,B:blld-2012:d161-p1,data/raw/blld_2012_congbao.pdf,55,55,2012,161,,1,1,1,1,,"Đã đối chiếu PDF: nguồn, trang, phiên bản, Điều đều đúng."
+q20,B,2,B:blld-2019:d143-p1,data/raw/blld_2019_congbao.pdf,58,58,2019,143,,1,1,1,1,,"Đã đối chiếu PDF: nguồn, trang, phiên bản, Điều đều đúng."
+q20,B,3,B:blld-2012:d163-p1,data/raw/blld_2012_congbao.pdf,55,56,2012,163,,1,1,1,1,,"Đã đối chiếu PDF: nguồn, trang, phiên bản, Điều đều đúng."
+q16,C,1,C:blld-2019:d020-p1,data/raw/blld_2019_congbao.pdf,9,10,2019,20,2019,1,1,1,1,1,"Đã đối chiếu PDF: nguồn, trang, phiên bản, Điều đều đúng."
+q16,C,2,C:blld-2019:d036-p2,data/raw/blld_2019_congbao.pdf,17,17,2019,36,2019,1,1,1,1,1,Phần 2 của Điều 36: header lặp ở trang 16 nhưng thân chunk bắt đầu trang 17 nên page_start=17 đúng; header bị cụt ('của người sử') vì tiêu đề xuống dòng.
+q16,C,3,C:blld-2019:d035-p1,data/raw/blld_2019_congbao.pdf,15,16,2019,35,2019,1,1,1,1,1,Đúng; chunk không liên quan câu hỏi nhưng metadata đúng.
+q17,C,1,C:blld-2019:d026-p1,data/raw/blld_2019_congbao.pdf,12,12,2019,26,,1,1,1,1,,"Đã đối chiếu PDF: nguồn, trang, phiên bản, Điều đều đúng."
+q17,C,2,C:blld-2012:d028-p1,data/raw/blld_2012_congbao.pdf,11,11,2012,28,,1,1,1,1,,"Đã đối chiếu PDF: nguồn, trang, phiên bản, Điều đều đúng."
+q17,C,3,C:blld-2012:d091-p1,data/raw/blld_2012_congbao.pdf,33,33,2012,91,,1,1,1,1,,"Đã đối chiếu PDF: nguồn, trang, phiên bản, Điều đều đúng."
+q18,C,1,C:blld-2019:d123-p1,data/raw/blld_2019_congbao.pdf,51,51,2019,123,,1,1,1,1,,"Đã đối chiếu PDF: nguồn, trang, phiên bản, Điều đều đúng."
+q18,C,2,C:blld-2012:d124-p1,data/raw/blld_2012_congbao.pdf,43,43,2012,124,,1,1,1,1,,"Đã đối chiếu PDF: nguồn, trang, phiên bản, Điều đều đúng."
+q18,C,3,C:blld-2019:d125-p1,data/raw/blld_2019_congbao.pdf,52,52,2019,125,,1,1,1,1,,"Đã đối chiếu PDF: nguồn, trang, phiên bản, Điều đều đúng."
+q19,C,1,C:blld-2019:d053-p1,data/raw/blld_2019_congbao.pdf,23,24,2019,53,,1,1,1,1,,"Đã đối chiếu PDF: nguồn, trang, phiên bản, Điều đều đúng."
+q19,C,2,C:blld-2012:d054-p1,data/raw/blld_2012_congbao.pdf,20,21,2012,54,,1,1,1,1,,"Đã đối chiếu PDF: nguồn, trang, phiên bản, Điều đều đúng."
+q19,C,3,C:blld-2019:d052-p1,data/raw/blld_2019_congbao.pdf,23,23,2019,52,,1,1,1,1,,"Đã đối chiếu PDF: nguồn, trang, phiên bản, Điều đều đúng."
+q20,C,1,C:blld-2012:d161-p1,data/raw/blld_2012_congbao.pdf,55,55,2012,161,,1,1,1,1,,"Đã đối chiếu PDF: nguồn, trang, phiên bản, Điều đều đúng."
+q20,C,2,C:blld-2019:d143-p1,data/raw/blld_2019_congbao.pdf,58,58,2019,143,,1,1,1,1,,"Đã đối chiếu PDF: nguồn, trang, phiên bản, Điều đều đúng."
+q20,C,3,C:blld-2012:d163-p1,data/raw/blld_2012_congbao.pdf,55,56,2012,163,,1,1,1,1,,"Đã đối chiếu PDF: nguồn, trang, phiên bản, Điều đều đúng."

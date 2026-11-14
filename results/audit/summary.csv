@@ -1,0 +1,4 @@
+﻿strategy,coherence_n,coherence_mean,metadata_ok,filter_ok,grounding_counts,grounding_mean,grounding_n
+A,10,0.9,15/15,0/1,0:1 1:0 2:4,1.6,5
+B,10,1.9,15/15,0/1,0:0 1:0 2:5,2.0,5
+C,10,1.9,15/15,1/1,0:0 1:0 2:5,2.0,5

@@ -1,0 +1,12 @@
+{
+  "strategy": "E",
+  "chunk_count": 713,
+  "embedded_count": 713,
+  "ingest_seconds": 1288.5,
+  "len_min": 34,
+  "len_mean": 490.1,
+  "len_p50": 386,
+  "len_p95": 1096,
+  "len_max": 1498,
+  "total_chars": 349408
+}

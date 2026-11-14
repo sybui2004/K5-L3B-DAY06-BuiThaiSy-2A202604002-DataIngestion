@@ -1,0 +1,32 @@
+2026-11-13 22:58:17,996 INFO normalization blld-2012: split_syllable_suspects=18
+2026-11-13 22:58:17,996 INFO excluded page blld-2019 p94: 0 chars
+2026-11-13 22:58:17,996 INFO normalization blld-2019: split_syllable_suspects=29
+2026-11-13 22:58:17,996 INFO normalization: glyph_dash_fixed=0
+2026-11-13 22:59:01,524 INFO ingest A blld-2012: 230 chunks, 230 embedded, 0 obsolete removed
+2026-11-13 22:59:48,584 INFO ingest A blld-2019: 271 chunks, 271 embedded, 0 obsolete removed
+2026-11-13 23:00:43,357 INFO ingest B blld-2012: 253 chunks, 253 embedded, 0 obsolete removed
+2026-11-13 23:01:27,335 INFO ingest B blld-2019: 252 chunks, 252 embedded, 0 obsolete removed
+2026-11-13 23:01:39,033 INFO normalization blld-2012: split_syllable_suspects=18
+2026-11-13 23:01:39,035 INFO excluded page blld-2019 p94: 0 chars
+2026-11-13 23:01:39,035 INFO normalization blld-2019: split_syllable_suspects=29
+2026-11-13 23:01:39,035 INFO normalization: glyph_dash_fixed=0
+2026-11-13 23:01:42,018 INFO ingest A blld-2012: 230 chunks, 0 embedded, 0 obsolete removed
+2026-11-13 23:01:43,051 INFO ingest A blld-2019: 271 chunks, 0 embedded, 0 obsolete removed
+2026-11-13 23:01:43,769 INFO ingest B blld-2012: 253 chunks, 0 embedded, 0 obsolete removed
+2026-11-13 23:01:44,568 INFO ingest B blld-2019: 252 chunks, 0 embedded, 0 obsolete removed
+2026-11-13 23:03:05,651 INFO normalization blld-2012: split_syllable_suspects=18
+2026-11-13 23:03:05,651 INFO excluded page blld-2019 p94: 0 chars
+2026-11-13 23:03:05,652 INFO normalization blld-2019: split_syllable_suspects=29
+2026-11-13 23:03:05,652 INFO normalization: glyph_dash_fixed=0
+2026-11-13 23:03:48,550 INFO ingest A blld-2012: 230 chunks, 230 embedded, 0 obsolete removed
+2026-11-13 23:04:35,638 INFO ingest A blld-2019: 271 chunks, 271 embedded, 0 obsolete removed
+2026-11-13 23:05:18,972 INFO ingest B blld-2012: 253 chunks, 253 embedded, 0 obsolete removed
+2026-11-13 23:06:03,249 INFO ingest B blld-2019: 252 chunks, 252 embedded, 0 obsolete removed
+2026-11-13 23:06:08,709 INFO normalization blld-2012: split_syllable_suspects=18
+2026-11-13 23:06:08,710 INFO excluded page blld-2019 p94: 0 chars
+2026-11-13 23:06:08,710 INFO normalization blld-2019: split_syllable_suspects=29
+2026-11-13 23:06:08,710 INFO normalization: glyph_dash_fixed=0
+2026-11-13 23:06:11,628 INFO ingest A blld-2012: 230 chunks, 0 embedded, 0 obsolete removed
+2026-11-13 23:06:12,790 INFO ingest A blld-2019: 271 chunks, 0 embedded, 0 obsolete removed
+2026-11-13 23:06:13,735 INFO ingest B blld-2012: 253 chunks, 0 embedded, 0 obsolete removed
+2026-11-13 23:06:14,820 INFO ingest B blld-2019: 252 chunks, 0 embedded, 0 obsolete removed

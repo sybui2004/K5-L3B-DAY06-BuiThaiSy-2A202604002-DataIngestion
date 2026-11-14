@@ -1,0 +1,12 @@
+{
+  "strategy": "F",
+  "chunk_count": 1686,
+  "embedded_count": 0,
+  "ingest_seconds": 1.2,
+  "len_min": 2,
+  "len_mean": 205.4,
+  "len_p50": 220,
+  "len_p95": 299,
+  "len_max": 300,
+  "total_chars": 346251
+}

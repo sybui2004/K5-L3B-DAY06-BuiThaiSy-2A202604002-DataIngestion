@@ -1,5 +1,7 @@
 # Day 06 · Data Ingestion Engineering
 
+> **Bài làm — Bùi Thái Sỹ (2A202604002, L3B).** Corpus: Bộ luật Lao động 2012 & 2019 (Công báo). Cài đặt và lệnh chạy: [starter/README.md](starter/README.md). Báo cáo: [report/individual/2A202604002_BuiThaiSy.md](report/individual/2A202604002_BuiThaiSy.md). Kết quả: [results/](results/) · Benchmark: [benchmark/](benchmark/) · Manifest: [data/manifest.csv](data/manifest.csv) · Experiment log: [artifacts/experiment_log.csv](artifacts/experiment_log.csv).
+
 **Lab cá nhân** · **4 giờ** · **Dữ liệu tự chọn**
 
 Biến tài liệu thành kho tri thức có thể truy xuất cho AI agent, rồi đo xem cách chuẩn bị dữ liệu nào hiệu quả nhất.

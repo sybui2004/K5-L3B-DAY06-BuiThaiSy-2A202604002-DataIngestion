@@ -1,0 +1,622 @@
+﻿question_id,strategy,question,expected_answer,top3_chunk_ids,top3_text,score_0_2,reason
+q16,A,"Theo Bộ luật Lao động 2019, hợp đồng lao động xác định thời hạn được ký với thời hạn tối đa bao lâu?",Không quá 36 tháng kể từ thời điểm có hiệu lực.,A:blld-2012:0022 | A:blld-2012:0023 | A:blld-2019:0025," đến 36 tháng.
+c) Hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất định có thời
+hạn dưới 12 tháng.
+2. Khi hợp đồng lao động quy định tại điểm b và điểm c khoản 1 Điều này hết
+hạn mà người lao động vẫn tiếp tục làm việc thì trong thời hạn 30 ngày, kể từ ngày
+hợp đồng lao động hết hạn, hai bên phải ký kết hợp đồng lao động mới; nếu không
+ký kết hợp đồng lao động mới thì hợp đồng đã giao kết theo quy định tại điểm b
+khoản 1 Điều này trở thành hợp đồng lao động không xác định thời hạn và hợp
+đồng đã giao kết theo quy định tại điểm c khoản 1 Điều này trở thành hợp đồng lao
+động xác định thời hạn với thời hạn là 24 tháng.
+Trường hợp hai bên ký kết hợp đồng lao động mới là hợp đồng xác định thời
+hạn thì cũng chỉ được ký thêm 01 lần, sau đó nếu người lao động vẫn tiếp tục làm
+việc thì ph
+---
+nh thời
+hạn thì cũng chỉ được ký thêm 01 lần, sau đó nếu người lao động vẫn tiếp tục làm
+việc thì phải ký kết hợp đồng lao động không xác định thời hạn.
+3. Không được giao kết hợp đồng lao động theo mùa vụ hoặc theo một công
+việc nhất định có thời hạn dưới 12 tháng để làm những công việc có tính chất
+thường xuyên từ 12 tháng trở lên, trừ trường hợp phải tạm thời thay thế người lao
+động đi làm nghĩa vụ quân sự, nghỉ theo chế độ thai sản, ốm đau, tai nạn lao động
+hoặc nghỉ việc có tính chất tạm thời khác.
+Điều 23. Nội dung hợp đồng lao động
+1. Hợp đồng lao động phải có những nội dung chủ yếu sau đây:
+a) Tên và địa chỉ người sử dụng lao động hoặc của người đại diện hợp pháp;
+b) Họ tên, ngày tháng năm sinh, giới tính, địa chỉ nơi cư trú, số chứng minh
+nhân dân hoặc giấy tờ hợp pháp khác của ng
+---
+
+động mới thì quyền, nghĩa vụ và lợi ích của hai bên được thực hiện theo hợp
+đồng đã giao kết;
+b) Nếu hết thời hạn 30 ngày kể từ ngày hợp đồng lao động hết hạn mà hai bên
+không ký kết hợp đồng lao động mới thì hợp đồng đã giao kết theo quy định tại
+điểm b khoản 1 Điều này trở thành hợp đồng lao động không xác định thời hạn;
+c) Trường hợp hai bên ký kết hợp đồng lao động mới là hợp đồng lao động xác
+định thời hạn thì cũng chỉ được ký thêm 01 lần, sau đó nếu người lao động vẫn tiếp
+tục làm việc thì phải ký kết hợp đồng lao động không xác định thời hạn, trừ hợp
+đồng lao động đối với người được thuê làm giám đốc trong doanh nghiệp có vốn
+nhà nước và trường hợp quy định tại khoản 1 Điều 149, khoản 2 Điều 151 và
+khoản 4 Điều 177 của Bộ luật này.
+Điều 21. Nội dung hợp đồng lao động
+1. Hợp đồng la",0,"Không có khoản 1 điểm b Điều 20 BLLĐ 2019: chunk 2019 (rank 3) bắt đầu từ khoản 2; hai chunk 2012 là bản sai phiên bản, rank 1 mở đầu cụt 'đến 36 tháng' không rõ chủ thể. Không đủ bằng chứng để trả lời theo BLLĐ 2019."
+q17,A,"Trong thời gian thử việc, người lao động được trả lương tối thiểu bao nhiêu?",Ít nhất bằng 85% mức lương của công việc đó.,A:blld-2019:0031 | A:blld-2012:0028 | A:blld-2012:0090,"với công việc có chức danh nghề nghiệp cần trình
+độ chuyên môn, kỹ thuật từ cao đẳng trở lên;
+3. Không quá 30 ngày đối với công việc có chức danh nghề nghiệp cần trình
+độ chuyên môn, kỹ thuật trung cấp, công nhân kỹ thuật, nhân viên nghiệp vụ;
+4. Không quá 06 ngày làm việc đối với công việc khác.
+Điều 26. Tiền lương thử việc
+Tiền lương của người lao động trong thời gian thử việc do hai bên thỏa thuận
+nhưng ít nhất phải bằng 85% mức lương của công việc đó.
+Điều 27. Kết thúc thời gian thử việc
+1. Khi kết thúc thời gian thử việc, người sử dụng lao động phải thông báo kết
+quả thử việc cho người lao động.
+Trường hợp thử việc đạt yêu cầu thì người sử dụng lao động tiếp tục thực hiện
+hợp đồng lao động đã giao kết đối với trường hợp thỏa thuận thử việc trong hợp
+đồng lao động hoặc phải giao kết hợ
+---
+ôn, kỹ thuật từ cao đẳng trở lên;
+2. Không quá 30 ngày đối với công việc có chức danh nghề cần trình độ
+chuyên môn kỹ thuật trung cấp nghề, trung cấp chuyên nghiệp, công nhân kỹ thuật,
+nhân viên nghiệp vụ.
+3. Không quá 6 ngày làm việc đối với công việc khác.
+Điều 28. Tiền lương trong thời gian thử việc
+Tiền lương của người lao động trong thời gian thử việc do hai bên thỏa thuận
+nhưng ít nhất phải bằng 85% mức lương của công việc đó.
+Điều 29. Kết thúc thời gian thử việc
+1. Khi việc làm thử đạt yêu cầu thì người sử dụng lao động phải giao kết hợp
+đồng lao động với người lao động.
+2. Trong thời gian thử việc, mỗi bên có quyền hủy bỏ thỏa thuận thử việc mà
+không cần báo trước và không phải bồi thường nếu việc làm thử không đạt yêu cầu
+mà hai bên đã thỏa thuận.
+Mục 2
+THỰC HIỆN HỢP ĐỒNG LAO ĐỘNG
+---
+ trị như nhau.
+Điều 91. Mức lương tối thiểu
+1. Mức lương tối thiểu là mức thấp nhất trả cho người lao động làm công việc
+giản đơn nhất, trong điều kiện lao động bình thường và phải bảo đảm nhu cầu sống
+tối thiểu của người lao động và gia đình họ.
+Mức lương tối thiểu được xác định theo tháng, ngày, giờ và được xác lập theo
+vùng, ngành.
+2. Căn cứ vào nhu cầu sống tối thiểu của người lao động và gia đình họ,
+điều kiện kinh tế - xã hội và mức tiền lương trên thị trường lao động, Chính phủ
+công bố mức lương tối thiểu vùng trên cơ sở khuyến nghị của Hội đồng tiền
+lương quốc gia.
+3. Mức lương tối thiểu ngành được xác định thông qua thương lượng tập thể
+ngành, được ghi trong thỏa ước lao động tập thể ngành nhưng không được thấp
+hơn mức lương tối thiểu vùng do Chính phủ công bố.
+Điều 92. Hội đồng t",2,Rank 1 chứa trọn Điều 26 BLLĐ 2019 ('ít nhất phải bằng 85% mức lương của công việc đó'); rank 2 có Điều 28 BLLĐ 2012 cùng nội dung. Đủ để trả lời và truy nguồn.
+q18,A,Nếu hành vi vi phạm liên quan đến bí mật kinh doanh thì thời hiệu xử lý kỷ luật lao động là bao lâu?,12 tháng (thay vì 06 tháng thông thường).,A:blld-2012:0118 | A:blld-2012:0117 | A:blld-2019:0148,"ết lộ bí mật công nghệ, bí mật kinh doanh của người sử dụng lao động thì thời
+hiệu xử lý kỷ luật lao động tối đa là 12 tháng.
+2. Khi hết thời gian quy định tại các điểm a, b và c khoản 4 Điều 123, nếu còn
+thời hiệu để xử lý kỷ luật lao động thì người sử dụng lao động tiến hành xử lý kỷ
+luật lao động ngay, nếu hết thời hiệu thì được kéo dài thời hiệu để xử lý kỷ luật lao
+động nhưng tối đa không quá 60 ngày kể từ ngày hết thời gian nêu trên.
+Khi hết thời gian quy định tại điểm d khoản 4 Điều 123, mà thời hiệu xử lý kỷ
+luật lao động đã hết thì được kéo dài thời hiệu xử lý kỷ luật lao động nhưng tối đa
+không quá 60 ngày kể từ ngày hết thời gian nêu trên.
+3. Quyết định xử lý kỷ luật lao động phải được ban hành trong thời hạn quy
+định tại khoản 1 và khoản 2 Điều này.
+Điều 125. Hình thức xử lý kỷ
+---
+ủa người sử dụng
+lao động;
+b) Đang bị tạm giữ, tạm giam;
+c) Đang chờ kết quả của cơ quan có thẩm quyền điều tra xác minh và kết luận
+đối với hành vi vi phạm được quy định tại khoản 1 Điều 126 của Bộ luật này;
+d) Lao động nữ có thai, nghỉ thai sản; người lao động nuôi con nhỏ dưới 12
+tháng tuổi.
+5. Không xử lý kỷ luật lao động đối với người lao động vi phạm kỷ luật lao
+động trong khi mắc bệnh tâm thần hoặc một bệnh khác làm mất khả năng nhận
+thức hoặc khả năng điều khiển hành vi của mình.
+Điều 124. Thời hiệu xử lý kỷ luật lao động
+1. Thời hiệu xử lý kỷ luật lao động tối đa là 06 tháng, kể từ ngày xảy ra hành
+vi vi phạm; trường hợp hành vi vi phạm liên quan trực tiếp đến tài chính, tài sản,
+tiết lộ bí mật công nghệ, bí mật kinh doanh của người sử dụng lao động thì thời
+hiệu xử lý kỷ luật lao
+---
+ lao động
+1. Thời hiệu xử lý kỷ luật lao động là 06 tháng kể từ ngày xảy ra hành vi vi
+phạm; trường hợp hành vi vi phạm liên quan trực tiếp đến tài chính, tài sản, tiết lộ
+bí mật công nghệ, bí mật kinh doanh của người sử dụng lao động thì thời hiệu xử
+lý kỷ luật lao động là 12 tháng.
+2. Khi hết thời gian quy định tại khoản 4 Điều 122 của Bộ luật này, nếu hết
+thời hiệu hoặc còn thời hiệu nhưng không đủ 60 ngày thì được kéo dài thời hiệu để
+xử lý kỷ luật lao động nhưng không quá 60 ngày kể từ ngày hết thời gian nêu trên.
+3. Người sử dụng lao động phải ban hành quyết định xử lý kỷ luật lao động
+trong thời hạn quy định tại khoản 1 và khoản 2 Điều này.
+Điều 124. Hình thức xử lý kỷ luật lao động
+1. Khiển trách.
+2. Kéo dài thời hạn nâng lương không quá 06 tháng.
+3. Cách chức.
+4. Sa thải.
+Điều 125",2,Rank 3 (BLLĐ 2019) chứa trọn khoản 1 Điều 123 gồm cả điều kiện 'bí mật kinh doanh' và mức 12 tháng (thiếu tiêu đề Điều nhưng metadata dieu=123); rank 1–2 ghép lại cho bản 2012. Đủ để trả lời.
+q19,A,Một doanh nghiệp được cho thuê lại một người lao động trong thời gian dài nhất là bao lâu?,Tối đa 12 tháng.,A:blld-2019:0066 | A:blld-2012:0056 | A:blld-2012:0057,"thuê lại lao động là ngành, nghề kinh doanh có điều kiện, chỉ
+được thực hiện bởi các doanh nghiệp có Giấy phép hoạt động cho thuê lại lao động
+và áp dụng đối với một số công việc nhất định.
+Điều 53. Nguyên tắc hoạt động cho thuê lại lao động
+1. Thời hạn cho thuê lại lao động đối với người lao động tối đa là 12 tháng.
+2. Bên thuê lại lao động được sử dụng lao động thuê lại trong trường hợp
+sau đây:
+a) Đáp ứng tạm thời sự gia tăng đột ngột về nhu cầu sử dụng lao động trong
+khoảng thời gian nhất định;
+b) Thay thế người lao động trong thời gian nghỉ thai sản, bị tai nạn lao động,
+bệnh nghề nghiệp hoặc phải thực hiện các nghĩa vụ công dân;
+c) Có nhu cầu sử dụng lao động trình độ chuyên môn, kỹ thuật cao.
+3. Bên thuê lại lao động không được sử dụng lao động thuê lại trong trường
+hợp sau đây:
+a) 
+---
+ính phủ quy định cụ thể Điều này.
+Mục 5
+CHO THUÊ LẠI LAO ĐỘNG
+Điều 53. Cho thuê lại lao động
+1. Cho thuê lại lao động là việc người lao động đã được tuyển dụng bởi doanh
+nghiệp được cấp phép hoạt động cho thuê lại lao động sau đó làm việc cho người
+sử dụng lao động khác, chịu sự điều hành của người sử dụng lao động sau và vẫn
+duy trì quan hệ lao động với doanh nghiệp cho thuê lại lao động.
+2. Hoạt động cho thuê lại lao động là ngành nghề kinh doanh có điều kiện và
+chỉ được thực hiện đối với một số công việc nhất định.
+Điều 54. Doanh nghiệp cho thuê lại lao động
+1. Doanh nghiệp cho thuê lại lao động phải ký quỹ và được cấp phép hoạt
+động cho thuê lại lao động.
+2. Thời hạn cho thuê lại lao động tối đa không quá 12 tháng.
+3. Chính phủ quy định việc cấp phép hoạt động cho thuê lại lao động, vi
+---
+g tối đa không quá 12 tháng.
+3. Chính phủ quy định việc cấp phép hoạt động cho thuê lại lao động, việc ký
+quỹ và danh mục công việc được thực hiện cho thuê lại lao động.
+Điều 55. Hợp đồng cho thuê lại lao động
+1. Doanh nghiệp cho thuê lại lao động và bên thuê lại lao động phải ký kết hợp
+đồng cho thuê lại lao động bằng văn bản, lập thành 02 bản, mỗi bên giữ một bản.
+2. Hợp đồng cho thuê lại lao động gồm các nội dung chủ yếu sau đây:
+a) Nơi làm việc, vị trí việc làm cần sử dụng lao động thuê lại, nội dung cụ thể
+của công việc, yêu cầu cụ thể đối với người lao động thuê lại;
+b) Thời hạn thuê lại lao động; thời gian bắt đầu làm việc của người lao động;
+c) Thời giờ làm việc, thời giờ nghỉ ngơi, điều kiện an toàn lao động, vệ sinh
+lao động tại nơi làm việc;
+d) Nghĩa vụ của mỗi bên đối với người",2,Rank 1 chứa tiêu đề và khoản 1 Điều 53 BLLĐ 2019 ('tối đa là 12 tháng'); rank 2 có khoản 2 Điều 54 BLLĐ 2012 tương đương. Đủ bằng chứng.
+q20,A,Người lao động ở độ tuổi nào thì được coi là lao động chưa thành niên?,Chưa đủ 18 tuổi (dưới 18 tuổi).,A:blld-2019:0168 | A:blld-2012:0153 | A:blld-2019:0171," và phải bảo đảm
+điều kiện an toàn, vệ sinh lao động cho người lao động theo quy định khi sử dụng
+họ làm công việc thuộc danh mục quy định tại khoản 1 Điều này.
+Chương XI
+NHỮNG QUY ĐỊNH RIÊNG ĐỐI VỚI LAO ĐỘNG
+CHƯA THÀNH NIÊN VÀ MỘT SỐ LAO ĐỘNG KHÁC
+Mục 1
+LAO ĐỘNG CHƯA THÀNH NIÊN
+Điều 143. Lao động chưa thành niên
+1. Lao động chưa thành niên là người lao động chưa đủ 18 tuổi.
+2. Người từ đủ 15 tuổi đến chưa đủ 18 tuổi không được làm công việc hoặc
+làm việc ở nơi làm việc quy định tại Điều 147 của Bộ luật này.
+3. Người từ đủ 13 tuổi đến chưa đủ 15 tuổi chỉ được làm công việc nhẹ theo
+danh mục do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành.
+4. Người chưa đủ 13 tuổi chỉ được làm các công việc theo quy định tại khoản 3
+Điều 145 của Bộ luật này.
+Điều 144. Nguyên tắc sử dụng lao động c
+---
+thường xuyên dưới nước.
+3. Công việc làm thường xuyên dưới hầm mỏ.
+Chương XI
+NHỮNG QUY ĐỊNH RIÊNG ĐỐI VỚI LAO ĐỘNG
+CHƯA THÀNH NIÊN VÀ MỘT SỐ LOẠI LAO ĐỘNG KHÁC
+Mục 1
+LAO ĐỘNG CHƯA THÀNH NIÊN
+Điều 161. Lao động chưa thành niên
+Người lao động chưa thành niên là người lao động dưới 18 tuổi.
+Điều 162. Sử dụng người lao động chưa thành niên
+1. Người sử dụng lao động chỉ được sử dụng người lao động chưa thành
+niên vào những công việc phù hợp với sức khoẻ để bảo đảm sự phát triển thể
+lực, trí lực, nhân cách và có trách nhiệm quan tâm chăm sóc người lao động
+chưa thành niên về các mặt lao động, tiền lương, sức khoẻ, học tập trong quá
+trình lao động.
+2. Khi sử dụng người lao động chưa thành niên, người sử dụng lao động phải
+lập sổ theo dõi riêng, ghi đầy đủ họ tên, ngày tháng năm sinh, công việc đa
+---
+sức khỏe định kỳ ít nhất một lần trong 06 tháng;
+d) Bảo đảm điều kiện làm việc, an toàn, vệ sinh lao động phù hợp với lứa tuổi.
+2. Người sử dụng lao động chỉ được tuyển dụng và sử dụng người từ đủ 13 tuổi
+đến chưa đủ 15 tuổi vào làm các công việc nhẹ theo quy định tại khoản 3 Điều 143
+của Bộ luật này.
+3. Người sử dụng lao động không được tuyển dụng và sử dụng người chưa
+đủ 13 tuổi làm việc, trừ các công việc nghệ thuật, thể dục, thể thao nhưng không
+làm tổn hại đến sự phát triển thể lực, trí lực, nhân cách của người chưa đủ 13 tuổi
+và phải có sự đồng ý của cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân
+cấp tỉnh.
+4. Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết Điều này.
+Điều 146. Thời giờ làm việc của người chưa thành niên
+1. Thời giờ làm việc của người chưa đủ 15 t",2,Rank 1 chứa tiêu đề và khoản 1 Điều 143 BLLĐ 2019 ('chưa đủ 18 tuổi'); rank 2 có Điều 161 BLLĐ 2012 ('dưới 18 tuổi'). Đủ bằng chứng.
+q16,B,"Theo Bộ luật Lao động 2019, hợp đồng lao động xác định thời hạn được ký với thời hạn tối đa bao lâu?",Không quá 36 tháng kể từ thời điểm có hiệu lực.,B:blld-2012:d022-p1 | B:blld-2019:d020-p1 | B:blld-2012:d037-p1,"Điều 22. Loại hợp đồng lao động
+1. Hợp đồng lao động phải được giao kết theo một trong các loại sau đây:
+a) Hợp đồng lao động không xác định thời hạn;
+Hợp đồng lao động không xác định thời hạn là hợp đồng mà trong đó hai bên
+không xác định thời hạn, thời điểm chấm dứt hiệu lực của hợp đồng.
+b) Hợp đồng lao động xác định thời hạn;
+Hợp đồng lao động xác định thời hạn là hợp đồng mà trong đó hai bên xác
+định thời hạn, thời điểm chấm dứt hiệu lực của hợp đồng trong khoảng thời gian từ
+đủ 12 tháng đến 36 tháng.
+c) Hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất định có thời
+hạn dưới 12 tháng.
+2. Khi hợp đồng lao động quy định tại điểm b và điểm c khoản 1 Điều này hết
+hạn mà người lao động vẫn tiếp tục làm việc thì trong thời hạn 30 ngày, kể từ ngày
+hợp đồng lao động hết hạn, hai bên phải ký kết hợp đồng lao động mới; nếu không
+ký kết hợp đồng lao động mới thì hợp đồng đã giao kết theo quy định tại điểm b
+khoản 1 Điều này trở thành hợp đồng lao động không xác định thời hạn và hợp
+đồng đã giao kết theo quy định tại điểm c khoản 1 Điều này trở thành hợp đồng lao
+động xác định thời hạn với thời hạn là 24 tháng.
+Trường hợp hai bên ký kết hợp đồng lao động mới là hợp đồng xác định thời
+hạn thì cũng chỉ được ký thêm 01 lần, sau đó nếu người lao động vẫn tiếp tục làm
+việc thì phải ký kết hợp đồng lao động không xác định thời hạn.
+---
+Điều 20. Loại hợp đồng lao động
+1. Hợp đồng lao động phải được giao kết theo một trong các loại sau đây:
+a) Hợp đồng lao động không xác định thời hạn là hợp đồng mà trong đó hai
+bên không xác định thời hạn, thời điểm chấm dứt hiệu lực của hợp đồng;
+b) Hợp đồng lao động xác định thời hạn là hợp đồng mà trong đó hai bên xác
+định thời hạn, thời điểm chấm dứt hiệu lực của hợp đồng trong thời gian không
+quá 36 tháng kể từ thời điểm có hiệu lực của hợp đồng.
+2. Khi hợp đồng lao động quy định tại điểm b khoản 1 Điều này hết hạn mà
+người lao động vẫn tiếp tục làm việc thì thực hiện như sau:
+a) Trong thời hạn 30 ngày kể từ ngày hợp đồng lao động hết hạn, hai bên
+phải ký kết hợp đồng lao động mới; trong thời gian chưa ký kết hợp đồng lao
+động mới thì quyền, nghĩa vụ và lợi ích của hai bên được thực hiện theo hợp
+đồng đã giao kết;
+b) Nếu hết thời hạn 30 ngày kể từ ngày hợp đồng lao động hết hạn mà hai bên
+không ký kết hợp đồng lao động mới thì hợp đồng đã giao kết theo quy định tại
+điểm b khoản 1 Điều này trở thành hợp đồng lao động không xác định thời hạn;
+c) Trường hợp hai bên ký kết hợp đồng lao động mới là hợp đồng lao động xác
+định thời hạn thì cũng chỉ được ký thêm 01 lần, sau đó nếu người lao động vẫn tiếp
+tục làm việc thì phải ký kết hợp đồng lao động không xác định thời hạn, trừ hợp
+đồng lao động đối với người được thuê làm giám đốc trong doanh nghiệp có vốn
+nhà nước và trường hợp quy định tại khoản 1 Điều 149, khoản 2 Điều 151 và
+khoản 4 Điều 177 của Bộ luật này.
+---
+Điều 37. Quyền đơn phương chấm dứt hợp đồng lao động của người
+lao động
+1. Người lao động làm việc theo hợp đồng lao động xác định thời hạn, hợp
+đồng lao động theo mùa vụ hoặc theo một công việc nhất định có thời hạn dưới 12
+tháng có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn trong
+những trường hợp sau đây:
+a) Không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được
+bảo đảm điều kiện làm việc đã thỏa thuận trong hợp đồng lao động;
+b) Không được trả lương đầy đủ hoặc trả lương không đúng thời hạn đã thỏa
+thuận trong hợp đồng lao động;
+c) Bị ngược đãi, quấy rối tình dục, cưỡng bức lao động;
+d) Bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện
+hợp đồng lao động;
+đ) Được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm
+giữ chức vụ trong bộ máy nhà nước;
+e) Lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh,
+chữa bệnh có thẩm quyền;
+g) Người lao động bị ốm đau, tai nạn đã điều trị 90 ngày liên tục đối với người
+làm việc theo hợp đồng lao động xác định thời hạn và một phần tư thời hạn hợp
+đồng đối với người làm việc theo hợp đồng lao động theo mùa vụ hoặc theo một
+công việc nhất định có thời hạn dưới 12 tháng mà khả năng lao động chưa được
+hồi phục.",2,"Rank 2 là trọn Điều 20 BLLĐ 2019 ('không quá 36 tháng kể từ thời điểm có hiệu lực'), đủ trả lời và truy nguồn trang 9. Rank 1 là Điều 22 BLLĐ 2012 (12–36 tháng) dễ gây nhiễu phiên bản."
+q17,B,"Trong thời gian thử việc, người lao động được trả lương tối thiểu bao nhiêu?",Ít nhất bằng 85% mức lương của công việc đó.,B:blld-2019:d026-p1 | B:blld-2012:d028-p1 | B:blld-2012:d091-p1,"Điều 26. Tiền lương thử việc
+Tiền lương của người lao động trong thời gian thử việc do hai bên thỏa thuận
+nhưng ít nhất phải bằng 85% mức lương của công việc đó.
+---
+Điều 28. Tiền lương trong thời gian thử việc
+Tiền lương của người lao động trong thời gian thử việc do hai bên thỏa thuận
+nhưng ít nhất phải bằng 85% mức lương của công việc đó.
+---
+Điều 91. Mức lương tối thiểu
+1. Mức lương tối thiểu là mức thấp nhất trả cho người lao động làm công việc
+giản đơn nhất, trong điều kiện lao động bình thường và phải bảo đảm nhu cầu sống
+tối thiểu của người lao động và gia đình họ.
+Mức lương tối thiểu được xác định theo tháng, ngày, giờ và được xác lập theo
+vùng, ngành.
+2. Căn cứ vào nhu cầu sống tối thiểu của người lao động và gia đình họ,
+điều kiện kinh tế - xã hội và mức tiền lương trên thị trường lao động, Chính phủ
+công bố mức lương tối thiểu vùng trên cơ sở khuyến nghị của Hội đồng tiền
+lương quốc gia.
+3. Mức lương tối thiểu ngành được xác định thông qua thương lượng tập thể
+ngành, được ghi trong thỏa ước lao động tập thể ngành nhưng không được thấp
+hơn mức lương tối thiểu vùng do Chính phủ công bố.",2,"Rank 1 là trọn Điều 26 BLLĐ 2019 (85%), rank 2 là Điều 28 BLLĐ 2012 tương đương. Đủ bằng chứng."
+q18,B,Nếu hành vi vi phạm liên quan đến bí mật kinh doanh thì thời hiệu xử lý kỷ luật lao động là bao lâu?,12 tháng (thay vì 06 tháng thông thường).,B:blld-2019:d123-p1 | B:blld-2012:d124-p1 | B:blld-2019:d125-p1,"Điều 123. Thời hiệu xử lý kỷ luật lao động
+1. Thời hiệu xử lý kỷ luật lao động là 06 tháng kể từ ngày xảy ra hành vi vi
+phạm; trường hợp hành vi vi phạm liên quan trực tiếp đến tài chính, tài sản, tiết lộ
+bí mật công nghệ, bí mật kinh doanh của người sử dụng lao động thì thời hiệu xử
+lý kỷ luật lao động là 12 tháng.
+2. Khi hết thời gian quy định tại khoản 4 Điều 122 của Bộ luật này, nếu hết
+thời hiệu hoặc còn thời hiệu nhưng không đủ 60 ngày thì được kéo dài thời hiệu để
+xử lý kỷ luật lao động nhưng không quá 60 ngày kể từ ngày hết thời gian nêu trên.
+3. Người sử dụng lao động phải ban hành quyết định xử lý kỷ luật lao động
+trong thời hạn quy định tại khoản 1 và khoản 2 Điều này.
+---
+Điều 124. Thời hiệu xử lý kỷ luật lao động
+1. Thời hiệu xử lý kỷ luật lao động tối đa là 06 tháng, kể từ ngày xảy ra hành
+vi vi phạm; trường hợp hành vi vi phạm liên quan trực tiếp đến tài chính, tài sản,
+tiết lộ bí mật công nghệ, bí mật kinh doanh của người sử dụng lao động thì thời
+hiệu xử lý kỷ luật lao động tối đa là 12 tháng.
+2. Khi hết thời gian quy định tại các điểm a, b và c khoản 4 Điều 123, nếu còn
+thời hiệu để xử lý kỷ luật lao động thì người sử dụng lao động tiến hành xử lý kỷ
+luật lao động ngay, nếu hết thời hiệu thì được kéo dài thời hiệu để xử lý kỷ luật lao
+động nhưng tối đa không quá 60 ngày kể từ ngày hết thời gian nêu trên.
+Khi hết thời gian quy định tại điểm d khoản 4 Điều 123, mà thời hiệu xử lý kỷ
+luật lao động đã hết thì được kéo dài thời hiệu xử lý kỷ luật lao động nhưng tối đa
+không quá 60 ngày kể từ ngày hết thời gian nêu trên.
+3. Quyết định xử lý kỷ luật lao động phải được ban hành trong thời hạn quy
+định tại khoản 1 và khoản 2 Điều này.
+---
+Điều 125. Áp dụng hình thức xử lý kỷ luật sa thải
+Hình thức xử lý kỷ luật sa thải được người sử dụng lao động áp dụng trong
+trường hợp sau đây:
+1. Người lao động có hành vi trộm cắp, tham ô, đánh bạc, cố ý gây thương
+tích, sử dụng ma túy tại nơi làm việc;
+2. Người lao động có hành vi tiết lộ bí mật kinh doanh, bí mật công nghệ, xâm
+phạm quyền sở hữu trí tuệ của người sử dụng lao động, có hành vi gây thiệt hại
+nghiêm trọng hoặc đe dọa gây thiệt hại đặc biệt nghiêm trọng về tài sản, lợi ích của
+người sử dụng lao động hoặc quấy rối tình dục tại nơi làm việc được quy định
+trong nội quy lao động;
+3. Người lao động bị xử lý kỷ luật kéo dài thời hạn nâng lương hoặc cách chức
+mà tái phạm trong thời gian chưa xóa kỷ luật. Tái phạm là trường hợp người lao
+động lặp lại hành vi vi phạm đã bị xử lý kỷ luật mà chưa được xóa kỷ luật theo quy
+định tại Điều 126 của Bộ luật này;
+4. Người lao động tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày hoặc
+20 ngày cộng dồn trong thời hạn 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà
+không có lý do chính đáng.
+Trường hợp được coi là có lý do chính đáng bao gồm thiên tai, hỏa hoạn, bản
+thân, thân nhân bị ốm có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền
+và trường hợp khác được quy định trong nội quy lao động.",2,"Rank 1 là trọn Điều 123 BLLĐ 2019: 06 tháng thông thường, 12 tháng khi liên quan bí mật kinh doanh. Đủ điều kiện và truy nguồn."
+q19,B,Một doanh nghiệp được cho thuê lại một người lao động trong thời gian dài nhất là bao lâu?,Tối đa 12 tháng.,B:blld-2019:d053-p1 | B:blld-2012:d054-p1 | B:blld-2019:d052-p1,"Điều 53. Nguyên tắc hoạt động cho thuê lại lao động
+1. Thời hạn cho thuê lại lao động đối với người lao động tối đa là 12 tháng.
+2. Bên thuê lại lao động được sử dụng lao động thuê lại trong trường hợp
+sau đây:
+a) Đáp ứng tạm thời sự gia tăng đột ngột về nhu cầu sử dụng lao động trong
+khoảng thời gian nhất định;
+b) Thay thế người lao động trong thời gian nghỉ thai sản, bị tai nạn lao động,
+bệnh nghề nghiệp hoặc phải thực hiện các nghĩa vụ công dân;
+c) Có nhu cầu sử dụng lao động trình độ chuyên môn, kỹ thuật cao.
+3. Bên thuê lại lao động không được sử dụng lao động thuê lại trong trường
+hợp sau đây:
+a) Để thay thế người lao động đang trong thời gian thực hiện quyền đình công,
+giải quyết tranh chấp lao động;
+b) Không có thỏa thuận cụ thể về trách nhiệm bồi thường tai nạn lao
+động, bệnh nghề nghiệp của người lao động thuê lại với doanh nghiệp cho
+thuê lại lao động;
+c) Thay thế người lao động bị cho thôi việc do thay đổi cơ cấu, công nghệ, vì
+lý do kinh tế hoặc chia, tách, hợp nhất, sáp nhập.
+4. Bên thuê lại lao động không được chuyển người lao động thuê lại cho người
+sử dụng lao động khác; không được sử dụng người lao động thuê lại được cung
+cấp bởi doanh nghiệp không có Giấy phép hoạt động cho thuê lại lao động.
+---
+Điều 54. Doanh nghiệp cho thuê lại lao động
+1. Doanh nghiệp cho thuê lại lao động phải ký quỹ và được cấp phép hoạt
+động cho thuê lại lao động.
+2. Thời hạn cho thuê lại lao động tối đa không quá 12 tháng.
+3. Chính phủ quy định việc cấp phép hoạt động cho thuê lại lao động, việc ký
+quỹ và danh mục công việc được thực hiện cho thuê lại lao động.
+---
+Điều 52. Cho thuê lại lao động
+1. Cho thuê lại lao động là việc người lao động giao kết hợp đồng lao động với
+một người sử dụng lao động là doanh nghiệp cho thuê lại lao động, sau đó người
+lao động được chuyển sang làm việc và chịu sự điều hành của người sử dụng lao
+động khác mà vẫn duy trì quan hệ lao động với người sử dụng lao động đã giao kết
+hợp đồng lao động.
+2. Hoạt động cho thuê lại lao động là ngành, nghề kinh doanh có điều kiện, chỉ
+được thực hiện bởi các doanh nghiệp có Giấy phép hoạt động cho thuê lại lao động
+và áp dụng đối với một số công việc nhất định.",2,"Rank 1 là Điều 53 BLLĐ 2019 khoản 1 ('tối đa là 12 tháng'), rank 2 Điều 54 BLLĐ 2012 tương đương. Đủ bằng chứng."
+q20,B,Người lao động ở độ tuổi nào thì được coi là lao động chưa thành niên?,Chưa đủ 18 tuổi (dưới 18 tuổi).,B:blld-2012:d161-p1 | B:blld-2019:d143-p1 | B:blld-2012:d163-p1,"Điều 161. Lao động chưa thành niên
+Người lao động chưa thành niên là người lao động dưới 18 tuổi.
+---
+Điều 143. Lao động chưa thành niên
+1. Lao động chưa thành niên là người lao động chưa đủ 18 tuổi.
+2. Người từ đủ 15 tuổi đến chưa đủ 18 tuổi không được làm công việc hoặc
+làm việc ở nơi làm việc quy định tại Điều 147 của Bộ luật này.
+3. Người từ đủ 13 tuổi đến chưa đủ 15 tuổi chỉ được làm công việc nhẹ theo
+danh mục do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành.
+4. Người chưa đủ 13 tuổi chỉ được làm các công việc theo quy định tại khoản 3
+Điều 145 của Bộ luật này.
+---
+Điều 163. Nguyên tắc sử dụng lao động là người chưa thành niên
+1. Không được sử dụng lao động chưa thành niên làm những công việc nặng
+nhọc, độc hại, nguy hiểm hoặc chỗ làm việc, công việc ảnh hưởng xấu tới nhân
+cách của họ theo danh mục do Bộ Lao động - Thương binh và Xã hội chủ trì phối
+hợp với Bộ Y tế ban hành.
+2. Thời giờ làm việc của người lao động chưa thành niên từ đủ 15 tuổi đến
+dưới 18 tuổi không được quá 08 giờ trong 01 ngày và 40 giờ trong 01 tuần.
+Thời giờ làm việc của người dưới 15 tuổi không được quá 04 giờ trong 01
+ngày và 20 giờ trong 01 tuần và không được sử dụng làm thêm giờ, làm việc vào
+ban đêm.
+3. Người từ đủ 15 tuổi đến dưới 18 tuổi được làm thêm giờ, làm việc vào ban
+đêm trong một số nghề và công việc theo quy định của Bộ Lao động - Thương
+binh và Xã hội.
+4. Không được sử dụng người chưa thành niên sản xuất và kinh doanh cồn,
+rượu, bia, thuốc lá, chất tác động đến tinh thần và các chất gây nghiện khác;
+5. Người sử dụng lao động phải tạo cơ hội để người lao động chưa thành niên
+và người dưới 15 tuổi tham gia lao động được học văn hóa.",2,"Rank 1 là Điều 161 BLLĐ 2012 (dưới 18 tuổi), rank 2 là Điều 143 BLLĐ 2019 (chưa đủ 18 tuổi). Đủ để trả lời và truy nguồn cả hai phiên bản."
+q16,C,"Theo Bộ luật Lao động 2019, hợp đồng lao động xác định thời hạn được ký với thời hạn tối đa bao lâu?",Không quá 36 tháng kể từ thời điểm có hiệu lực.,C:blld-2019:d020-p1 | C:blld-2019:d036-p2 | C:blld-2019:d035-p1,"Điều 20. Loại hợp đồng lao động
+1. Hợp đồng lao động phải được giao kết theo một trong các loại sau đây:
+a) Hợp đồng lao động không xác định thời hạn là hợp đồng mà trong đó hai
+bên không xác định thời hạn, thời điểm chấm dứt hiệu lực của hợp đồng;
+b) Hợp đồng lao động xác định thời hạn là hợp đồng mà trong đó hai bên xác
+định thời hạn, thời điểm chấm dứt hiệu lực của hợp đồng trong thời gian không
+quá 36 tháng kể từ thời điểm có hiệu lực của hợp đồng.
+2. Khi hợp đồng lao động quy định tại điểm b khoản 1 Điều này hết hạn mà
+người lao động vẫn tiếp tục làm việc thì thực hiện như sau:
+a) Trong thời hạn 30 ngày kể từ ngày hợp đồng lao động hết hạn, hai bên
+phải ký kết hợp đồng lao động mới; trong thời gian chưa ký kết hợp đồng lao
+động mới thì quyền, nghĩa vụ và lợi ích của hai bên được thực hiện theo hợp
+đồng đã giao kết;
+b) Nếu hết thời hạn 30 ngày kể từ ngày hợp đồng lao động hết hạn mà hai bên
+không ký kết hợp đồng lao động mới thì hợp đồng đã giao kết theo quy định tại
+điểm b khoản 1 Điều này trở thành hợp đồng lao động không xác định thời hạn;
+c) Trường hợp hai bên ký kết hợp đồng lao động mới là hợp đồng lao động xác
+định thời hạn thì cũng chỉ được ký thêm 01 lần, sau đó nếu người lao động vẫn tiếp
+tục làm việc thì phải ký kết hợp đồng lao động không xác định thời hạn, trừ hợp
+đồng lao động đối với người được thuê làm giám đốc trong doanh nghiệp có vốn
+nhà nước và trường hợp quy định tại khoản 1 Điều 149, khoản 2 Điều 151 và
+khoản 4 Điều 177 của Bộ luật này.
+---
+Điều 36. Quyền đơn phương chấm dứt hợp đồng lao động của người sử
+đ) Người lao động đủ tuổi nghỉ hưu theo quy định tại Điều 169 của Bộ luật
+này, trừ trường hợp có thỏa thuận khác;
+e) Người lao động tự ý bỏ việc mà không có lý do chính đáng từ 05 ngày làm
+việc liên tục trở lên;
+g) Người lao động cung cấp không trung thực thông tin theo quy định tại
+khoản 2 Điều 16 của Bộ luật này khi giao kết hợp đồng lao động làm ảnh hưởng
+đến việc tuyển dụng người lao động.
+2. Khi đơn phương chấm dứt hợp đồng lao động trong trường hợp quy định tại
+các điểm a, b, c, đ và g khoản 1 Điều này, người sử dụng lao động phải báo trước
+cho người lao động như sau:
+a) Ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn;
+b) Ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn có thời hạn
+từ 12 tháng đến 36 tháng;
+c) Ít nhất 03 ngày làm việc đối với hợp đồng lao động xác định thời hạn
+có thời hạn dưới 12 tháng và đối với trường hợp quy định tại điểm b khoản 1
+Điều này;
+d) Đối với một số ngành, nghề, công việc đặc thù thì thời hạn báo trước được
+thực hiện theo quy định của Chính phủ.
+3. Khi đơn phương chấm dứt hợp đồng lao động quy định tại điểm d và điểm e
+khoản 1 Điều này thì người sử dụng lao động không phải báo trước cho người
+lao động.
+---
+Điều 35. Quyền đơn phương chấm dứt hợp đồng lao động của người
+lao động
+1. Người lao động có quyền đơn phương chấm dứt hợp đồng lao động nhưng
+phải báo trước cho người sử dụng lao động như sau:
+a) Ít nhất 45 ngày nếu làm việc theo hợp đồng lao động không xác định
+thời hạn;
+b) Ít nhất 30 ngày nếu làm việc theo hợp đồng lao động xác định thời hạn có
+thời hạn từ 12 tháng đến 36 tháng;
+c) Ít nhất 03 ngày làm việc nếu làm việc theo hợp đồng lao động xác định thời
+hạn có thời hạn dưới 12 tháng;
+d) Đối với một số ngành, nghề, công việc đặc thù thì thời hạn báo trước được
+thực hiện theo quy định của Chính phủ.",2,"Filter 2019 đưa trọn Điều 20 BLLĐ 2019 lên rank 1, đủ bằng chứng và truy nguồn; rank 2–3 (Điều 36, 35) không liên quan nhưng không gây nhiễu phiên bản."
+q17,C,"Trong thời gian thử việc, người lao động được trả lương tối thiểu bao nhiêu?",Ít nhất bằng 85% mức lương của công việc đó.,C:blld-2019:d026-p1 | C:blld-2012:d028-p1 | C:blld-2012:d091-p1,"Điều 26. Tiền lương thử việc
+Tiền lương của người lao động trong thời gian thử việc do hai bên thỏa thuận
+nhưng ít nhất phải bằng 85% mức lương của công việc đó.
+---
+Điều 28. Tiền lương trong thời gian thử việc
+Tiền lương của người lao động trong thời gian thử việc do hai bên thỏa thuận
+nhưng ít nhất phải bằng 85% mức lương của công việc đó.
+---
+Điều 91. Mức lương tối thiểu
+1. Mức lương tối thiểu là mức thấp nhất trả cho người lao động làm công việc
+giản đơn nhất, trong điều kiện lao động bình thường và phải bảo đảm nhu cầu sống
+tối thiểu của người lao động và gia đình họ.
+Mức lương tối thiểu được xác định theo tháng, ngày, giờ và được xác lập theo
+vùng, ngành.
+2. Căn cứ vào nhu cầu sống tối thiểu của người lao động và gia đình họ,
+điều kiện kinh tế - xã hội và mức tiền lương trên thị trường lao động, Chính phủ
+công bố mức lương tối thiểu vùng trên cơ sở khuyến nghị của Hội đồng tiền
+lương quốc gia.
+3. Mức lương tối thiểu ngành được xác định thông qua thương lượng tập thể
+ngành, được ghi trong thỏa ước lao động tập thể ngành nhưng không được thấp
+hơn mức lương tối thiểu vùng do Chính phủ công bố.",2,Không có filter nên giống B: rank 1 trọn Điều 26 BLLĐ 2019 (85%). Đủ bằng chứng.
+q18,C,Nếu hành vi vi phạm liên quan đến bí mật kinh doanh thì thời hiệu xử lý kỷ luật lao động là bao lâu?,12 tháng (thay vì 06 tháng thông thường).,C:blld-2019:d123-p1 | C:blld-2012:d124-p1 | C:blld-2019:d125-p1,"Điều 123. Thời hiệu xử lý kỷ luật lao động
+1. Thời hiệu xử lý kỷ luật lao động là 06 tháng kể từ ngày xảy ra hành vi vi
+phạm; trường hợp hành vi vi phạm liên quan trực tiếp đến tài chính, tài sản, tiết lộ
+bí mật công nghệ, bí mật kinh doanh của người sử dụng lao động thì thời hiệu xử
+lý kỷ luật lao động là 12 tháng.
+2. Khi hết thời gian quy định tại khoản 4 Điều 122 của Bộ luật này, nếu hết
+thời hiệu hoặc còn thời hiệu nhưng không đủ 60 ngày thì được kéo dài thời hiệu để
+xử lý kỷ luật lao động nhưng không quá 60 ngày kể từ ngày hết thời gian nêu trên.
+3. Người sử dụng lao động phải ban hành quyết định xử lý kỷ luật lao động
+trong thời hạn quy định tại khoản 1 và khoản 2 Điều này.
+---
+Điều 124. Thời hiệu xử lý kỷ luật lao động
+1. Thời hiệu xử lý kỷ luật lao động tối đa là 06 tháng, kể từ ngày xảy ra hành
+vi vi phạm; trường hợp hành vi vi phạm liên quan trực tiếp đến tài chính, tài sản,
+tiết lộ bí mật công nghệ, bí mật kinh doanh của người sử dụng lao động thì thời
+hiệu xử lý kỷ luật lao động tối đa là 12 tháng.
+2. Khi hết thời gian quy định tại các điểm a, b và c khoản 4 Điều 123, nếu còn
+thời hiệu để xử lý kỷ luật lao động thì người sử dụng lao động tiến hành xử lý kỷ
+luật lao động ngay, nếu hết thời hiệu thì được kéo dài thời hiệu để xử lý kỷ luật lao
+động nhưng tối đa không quá 60 ngày kể từ ngày hết thời gian nêu trên.
+Khi hết thời gian quy định tại điểm d khoản 4 Điều 123, mà thời hiệu xử lý kỷ
+luật lao động đã hết thì được kéo dài thời hiệu xử lý kỷ luật lao động nhưng tối đa
+không quá 60 ngày kể từ ngày hết thời gian nêu trên.
+3. Quyết định xử lý kỷ luật lao động phải được ban hành trong thời hạn quy
+định tại khoản 1 và khoản 2 Điều này.
+---
+Điều 125. Áp dụng hình thức xử lý kỷ luật sa thải
+Hình thức xử lý kỷ luật sa thải được người sử dụng lao động áp dụng trong
+trường hợp sau đây:
+1. Người lao động có hành vi trộm cắp, tham ô, đánh bạc, cố ý gây thương
+tích, sử dụng ma túy tại nơi làm việc;
+2. Người lao động có hành vi tiết lộ bí mật kinh doanh, bí mật công nghệ, xâm
+phạm quyền sở hữu trí tuệ của người sử dụng lao động, có hành vi gây thiệt hại
+nghiêm trọng hoặc đe dọa gây thiệt hại đặc biệt nghiêm trọng về tài sản, lợi ích của
+người sử dụng lao động hoặc quấy rối tình dục tại nơi làm việc được quy định
+trong nội quy lao động;
+3. Người lao động bị xử lý kỷ luật kéo dài thời hạn nâng lương hoặc cách chức
+mà tái phạm trong thời gian chưa xóa kỷ luật. Tái phạm là trường hợp người lao
+động lặp lại hành vi vi phạm đã bị xử lý kỷ luật mà chưa được xóa kỷ luật theo quy
+định tại Điều 126 của Bộ luật này;
+4. Người lao động tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày hoặc
+20 ngày cộng dồn trong thời hạn 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà
+không có lý do chính đáng.
+Trường hợp được coi là có lý do chính đáng bao gồm thiên tai, hỏa hoạn, bản
+thân, thân nhân bị ốm có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền
+và trường hợp khác được quy định trong nội quy lao động.",2,"Không có filter nên giống B: rank 1 trọn Điều 123 BLLĐ 2019, có cả điều kiện và mức 12 tháng."
+q19,C,Một doanh nghiệp được cho thuê lại một người lao động trong thời gian dài nhất là bao lâu?,Tối đa 12 tháng.,C:blld-2019:d053-p1 | C:blld-2012:d054-p1 | C:blld-2019:d052-p1,"Điều 53. Nguyên tắc hoạt động cho thuê lại lao động
+1. Thời hạn cho thuê lại lao động đối với người lao động tối đa là 12 tháng.
+2. Bên thuê lại lao động được sử dụng lao động thuê lại trong trường hợp
+sau đây:
+a) Đáp ứng tạm thời sự gia tăng đột ngột về nhu cầu sử dụng lao động trong
+khoảng thời gian nhất định;
+b) Thay thế người lao động trong thời gian nghỉ thai sản, bị tai nạn lao động,
+bệnh nghề nghiệp hoặc phải thực hiện các nghĩa vụ công dân;
+c) Có nhu cầu sử dụng lao động trình độ chuyên môn, kỹ thuật cao.
+3. Bên thuê lại lao động không được sử dụng lao động thuê lại trong trường
+hợp sau đây:
+a) Để thay thế người lao động đang trong thời gian thực hiện quyền đình công,
+giải quyết tranh chấp lao động;
+b) Không có thỏa thuận cụ thể về trách nhiệm bồi thường tai nạn lao
+động, bệnh nghề nghiệp của người lao động thuê lại với doanh nghiệp cho
+thuê lại lao động;
+c) Thay thế người lao động bị cho thôi việc do thay đổi cơ cấu, công nghệ, vì
+lý do kinh tế hoặc chia, tách, hợp nhất, sáp nhập.
+4. Bên thuê lại lao động không được chuyển người lao động thuê lại cho người
+sử dụng lao động khác; không được sử dụng người lao động thuê lại được cung
+cấp bởi doanh nghiệp không có Giấy phép hoạt động cho thuê lại lao động.
+---
+Điều 54. Doanh nghiệp cho thuê lại lao động
+1. Doanh nghiệp cho thuê lại lao động phải ký quỹ và được cấp phép hoạt
+động cho thuê lại lao động.
+2. Thời hạn cho thuê lại lao động tối đa không quá 12 tháng.
+3. Chính phủ quy định việc cấp phép hoạt động cho thuê lại lao động, việc ký
+quỹ và danh mục công việc được thực hiện cho thuê lại lao động.
+---
+Điều 52. Cho thuê lại lao động
+1. Cho thuê lại lao động là việc người lao động giao kết hợp đồng lao động với
+một người sử dụng lao động là doanh nghiệp cho thuê lại lao động, sau đó người
+lao động được chuyển sang làm việc và chịu sự điều hành của người sử dụng lao
+động khác mà vẫn duy trì quan hệ lao động với người sử dụng lao động đã giao kết
+hợp đồng lao động.
+2. Hoạt động cho thuê lại lao động là ngành, nghề kinh doanh có điều kiện, chỉ
+được thực hiện bởi các doanh nghiệp có Giấy phép hoạt động cho thuê lại lao động
+và áp dụng đối với một số công việc nhất định.",2,Không có filter nên giống B: rank 1 Điều 53 BLLĐ 2019 khoản 1 (12 tháng).
+q20,C,Người lao động ở độ tuổi nào thì được coi là lao động chưa thành niên?,Chưa đủ 18 tuổi (dưới 18 tuổi).,C:blld-2012:d161-p1 | C:blld-2019:d143-p1 | C:blld-2012:d163-p1,"Điều 161. Lao động chưa thành niên
+Người lao động chưa thành niên là người lao động dưới 18 tuổi.
+---
+Điều 143. Lao động chưa thành niên
+1. Lao động chưa thành niên là người lao động chưa đủ 18 tuổi.
+2. Người từ đủ 15 tuổi đến chưa đủ 18 tuổi không được làm công việc hoặc
+làm việc ở nơi làm việc quy định tại Điều 147 của Bộ luật này.
+3. Người từ đủ 13 tuổi đến chưa đủ 15 tuổi chỉ được làm công việc nhẹ theo
+danh mục do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành.
+4. Người chưa đủ 13 tuổi chỉ được làm các công việc theo quy định tại khoản 3
+Điều 145 của Bộ luật này.
+---
+Điều 163. Nguyên tắc sử dụng lao động là người chưa thành niên
+1. Không được sử dụng lao động chưa thành niên làm những công việc nặng
+nhọc, độc hại, nguy hiểm hoặc chỗ làm việc, công việc ảnh hưởng xấu tới nhân
+cách của họ theo danh mục do Bộ Lao động - Thương binh và Xã hội chủ trì phối
+hợp với Bộ Y tế ban hành.
+2. Thời giờ làm việc của người lao động chưa thành niên từ đủ 15 tuổi đến
+dưới 18 tuổi không được quá 08 giờ trong 01 ngày và 40 giờ trong 01 tuần.
+Thời giờ làm việc của người dưới 15 tuổi không được quá 04 giờ trong 01
+ngày và 20 giờ trong 01 tuần và không được sử dụng làm thêm giờ, làm việc vào
+ban đêm.
+3. Người từ đủ 15 tuổi đến dưới 18 tuổi được làm thêm giờ, làm việc vào ban
+đêm trong một số nghề và công việc theo quy định của Bộ Lao động - Thương
+binh và Xã hội.
+4. Không được sử dụng người chưa thành niên sản xuất và kinh doanh cồn,
+rượu, bia, thuốc lá, chất tác động đến tinh thần và các chất gây nghiện khác;
+5. Người sử dụng lao động phải tạo cơ hội để người lao động chưa thành niên
+và người dưới 15 tuổi tham gia lao động được học văn hóa.",2,Không có filter nên giống B: Điều 161 BLLĐ 2012 và Điều 143 BLLĐ 2019 đều có định nghĩa dưới 18 tuổi.
